@@ -1,22 +1,32 @@
-# 💻 Data Structures & Algorithms in C++
-Welcome to my repository for lab assignments and competitive programming at **IIIT Bhubaneswar**. This project tracks my journey through complex algorithms and data structures.
+<div align="center">
 
-## 🚀 Recently Added
-* **Queue using Stacks**: Implementation of a FIFO queue using two LIFO stacks (`stackToqueue.cpp`).
-* **Sorting Algorithms**: Bubble, Merge, Quick, and Heap Sort implementations.
-* **Linked Lists**: Singly and Doubly linked list operations.
-* **Algorithm Patterns**: Recursion, Backtracking, and Dynamic Programming.
+# 🌅 childhood
 
-## 🛠️ Tech Stack
-* **Language:** `C++` / `C`
-* **Environment:** `Arch Linux` / `Windows`
-* **Workflow:** `VS Code` + `Git` / `GitHub Desktop`
+</div>
 
-## 🖋️ Beyond the Console
-When I'm not optimizing time complexity or debugging memory leaks, I find balance in:
-* **Hindi Sahitya:** Exploring the depth of words and creative rhythm through poetry.
-* **Nature & Ornithology:** Finding symmetry in the natural world and birdwatching.
-* **Cinematic Stories:** Engaging with the complex narratives of Turkish dramas and psychological anime.
+**Every programming journey starts somewhere.**
 
----
-> *"Writing code is like writing poetry; both require the perfect arrangement of logic and emotion."*
+For me, this is where mine begins.
+
+For me, this is a place to learn, experiment, make mistakes, fix them, and slowly understand how things work.
+
+I’m exploring programming languages, data structures, algorithms, college work, and whatever catches my curiosity along the way.
+
+Some things here will be simple, some unfinished, and some may eventually grow into bigger projects.
+
+This repository isn’t meant to show how far I’ve reached. It’s a record of where I started and how I grow from here.
+
+
+## ✦ What I’m Learning
+
+| | | |
+|---|---|---|
+| 💻 **C, C++, Python, C#** | ☕ **Java** | 🌐 **JavaScript & CSS** |
+| 🧠 **Data Structures & Algorithms** | 🎓 **College coursework** | 🧪 **Experiments & small projects** |
+
+→ I’ll keep adding to it as I learn something new, try something different, or build something worth keeping.
+
+
+## ◇ Why `childhood`?
+
+Because every skill has a beginning, `childhood` represents the early part of my programming journey — the stage where I’m curious, learning the fundamentals, trying things out, and figuring out what comes next. `dawn` represents the first step forward — where the journey begins and where the next chapter starts.
