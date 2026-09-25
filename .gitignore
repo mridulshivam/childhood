@@ -1,0 +1,17 @@
+# Compiled binaries and build output
+*.exe
+*.out
+*.o
+*.obj
+bin/
+obj/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local ML model weights
+*.pth
+
+# Temporary editor files
+tempCodeRunnerFile.*
