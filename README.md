@@ -21,7 +21,7 @@ This repository isn’t meant to show how far I’ve reached. It’s a record of
 
 | | | |
 |---|---|---|
-| 💻 **C, C++, Python, C#** | ☕ **Java** | 🌐 **JavaScript & CSS** |
+| 💻 **C, Cpp, Python, C#** | ☕ **Java** | 🌐 **JavaScript & CSS** |
 | 🧠 **Data Structures & Algorithms** | 🎓 **College coursework** | 🧪 **Experiments & small projects** |
 
 → I’ll keep adding to it as I learn something new, try something different, or build something worth keeping.
